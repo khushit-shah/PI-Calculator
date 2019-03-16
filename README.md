@@ -7,4 +7,4 @@ A 'C' program to calculate value of PI upto 100,000 digits and more!
 ## Installation:
   1. [Here](https://linkevin.me/tutorial-installing-gmp-library-ubuntu/) is a great article  on installing gpm(linux).
   2. run `gcc Pi-Calc.c -o Pi-Calc -lgmp`
-  3. run './Pi-Calc' ans Enter Desired digits of PI.
+  3. run `./Pi-Calc` ans Enter Desired digits of PI.
